@@ -1,0 +1,17 @@
+{
+  "name": "puc-ead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ana Coimbra",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.23.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
